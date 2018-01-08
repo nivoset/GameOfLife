@@ -2,6 +2,9 @@
 
 Conways Game of life with browser Unit Testing
 
+Based on:
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 
 ### Installing
 
