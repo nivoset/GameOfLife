@@ -1,0 +1,35 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "Game Of Life on browser",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mocha": "^4.1.0",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivoset/GameOfLife.git"
+  },
+  "keywords": [
+    "conway",
+    "mocha",
+    "chai",
+    "browser"
+  ],
+  "author": "Benjamin Koop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nivoset/GameOfLife/issues"
+  },
+  "homepage": "https://github.com/nivoset/GameOfLife#readme"
+}
